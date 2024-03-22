@@ -6,6 +6,8 @@
 
 ## 代表性 dp
 
+【24fall】 ZJUI 3.9+ GRE324 ad
+
 【22fall】ZJU 90+ GRE325 被拒
 
 【22fall】 SCUT 3.9+ GRE329 ad
